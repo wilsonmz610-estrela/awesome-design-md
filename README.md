@@ -1,3 +1,4 @@
+
 <a href="https://github.com/VoltAgent/voltagent">
      <img width="1500"  alt="claude-skills" src="https://github.com/user-attachments/assets/d012a0d2-cec3-4630-ba5e-acc339dbe6cf" />
 </a>
@@ -50,10 +51,31 @@ You can [request a DESIGN.md](https://getdesign.md/request) for specific website
 Tools, platforms, and services for designing and shipping web apps with AI.
 
 <a href="https://github.com/VoltAgent/voltagent">
-  <img src="SPONSOR_LOGO_URL" alt="voltagent" height="80" />
+<img height="80" alt="voltagent-banner" src="https://github.com/user-attachments/assets/7196f50b-ca98-494c-8aa0-11e111c49f96" />
 </a>
 
-[**Get listed here →**](https://sponsors.voltagent.dev/#awesome-design-md)
+<br/>
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<h4> Feature your product alongside the developers, designers, and vibecoders shipping UI with AI coding agents and web builders.</h4>
+
+[**Get featured here →**](https://sponsors.voltagent.dev/#awesome-design-md)
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 ## Collection
 
